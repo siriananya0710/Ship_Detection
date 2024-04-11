@@ -1,0 +1,10 @@
+path: C:/Users/hifia/Projects/Test/dataset2
+train: images/train
+val: images/val
+
+labels:
+    train: labels/train
+    val: labels/val
+
+names:
+    0: ship
